@@ -1,1 +1,2 @@
 # Homework
+permalink: /index.html
